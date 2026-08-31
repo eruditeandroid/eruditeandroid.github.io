@@ -1,2 +1,1 @@
-# eruditeandroid.github.io
-Personal web page
+## Under Construction
